@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+.avatar {
+    width: 150px;
+    border-radius: 50%;
+}
+.card {
+    background: antiquewhite;
+    font-family: 'Sigmar One', cursive;
+    color: #2b2839;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 10px solid #2b2839;
+    border-style: double;
+    border-radius: 20px;
+}
